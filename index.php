@@ -36,6 +36,8 @@ if(isset($_REQUEST["question"])){
 if (isset($_REQUEST["question"])) {
     $question = $_POST["question"];
     
+    echo "<B>" . $question . "</B><BR>";
+    
     for ($i = 0; $i <= 77; $i++) {
         $cards[$i] = 0;
     }
