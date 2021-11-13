@@ -8,4 +8,6 @@ Note, this does not yet account for reversals. Due to the nature of randomness, 
 half the time. So I have found it best not to worry about those, since they don't usually come
 up in my readings anyway.
 
+Live Demo at: https://tarot.intentionrepeater.com/
+
 Card images and descriptions taken from: https://github.com/jeremytarling/python-tarot
